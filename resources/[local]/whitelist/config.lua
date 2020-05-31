@@ -2,7 +2,7 @@
 -- This config file was created to help you configure the code in server.lua and client.lua a lot easier. Please do NOT edit those files.
 
 auths = {
-    '76561198334885192', -- Change this and add more lines to add steamID's if your method is set to Standard.
+    'steam:110000116543d48','steam:1100001160379c1','steam:110000115ecb722' -- Change this and add more lines to add steamID's if your method is set to Standard.
 }
 
 --[[ Basic Settings ]]--
